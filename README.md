@@ -2,7 +2,7 @@ def caesar_cipher(text: str, key: str, encrypt: bool = True) -> str:
     """
     Applies the Caesar Cipher to the given text using a custom key.
 
-    Args:
+    Args:iiiiiiiiiiii
         text (str): The text to encrypt or decrypt.
         key (str): The custom key to use for encryption or decryption.
         encrypt (bool, optional): If True, encrypts the text. If False, decrypts the text. Defaults to True.
